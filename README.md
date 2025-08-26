@@ -37,6 +37,6 @@
 
 ###
 
-<img align="right" height="150" src="https://chosengifs.wordpress.com/wp-content/uploads/2016/02/hacker-cat.gif"  />
+<img align="center" height="150" src="https://chosengifs.wordpress.com/wp-content/uploads/2016/02/hacker-cat.gif"  />
 
 ###
