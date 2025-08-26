@@ -33,8 +33,11 @@
   <a href="mailto:0xff5@proton.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Proton&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <img align="center" height="150" src="https://chosengifs.wordpress.com/wp-content/uploads/2016/02/hacker-cat.gif"  />
 
+</div>
+
+<div align="center">
+  <img height="150" src="https://chosengifs.wordpress.com/wp-content/uploads/2016/02/hacker-cat.gif" />
 </div>
 
 ###
