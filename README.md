@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm 0xF55</h1>
 - 🔭 I’m currently working on **many useful projects**
 
-- 🌱 I’m currently learning **ASM,Netwroks**
+- 🌱 I’m currently learning **Low Level,Netwroks**
 
 - 👨‍💻 All of my projects are available at [https://0xf55.github.io/](https://0xf55.github.io/)
 
 - 📝 I regularly write articles on [https://0xf55.github.io/](https://0xf55.github.io/)
-
-- 💬 Ask me about **Any thing in malware dev**
 
 - 📄 Know about my experiences [https://0xf55.github.io/](https://0xf55.github.io/)
 
