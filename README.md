@@ -37,9 +37,6 @@
 
 ###
 
-<img align="center" height="150" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" />
-
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
-
+<img align="right" height="150" src="https://chosengifs.wordpress.com/wp-content/uploads/2016/02/hacker-cat.gif"  />
 
 ###
