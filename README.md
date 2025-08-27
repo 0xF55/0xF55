@@ -40,22 +40,5 @@
   <img height="150" src="https://chosengifs.wordpress.com/wp-content/uploads/2016/02/hacker-cat.gif" />
 </div>
 
-
-<div align="center">
-
-  <code>
-    class F55:
-      def __init__(self):
-        self.name = "mohamed"
-        self.age = 0
-        self.languages = ["python","c"]
-    
-     def __eq__(self,other):
-       print("There is no comparison")
-       
-  </code>
-  
-</div>
-
 ###
 
